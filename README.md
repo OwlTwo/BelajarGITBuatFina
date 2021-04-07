@@ -1,5 +1,6 @@
 # Syarat Belajar GIT Buat Fina
 - Pertama Hanya Boleh fork 1 kali seumur Hidup
+- Masukkan Crud CI kemarin
 - push ke Branch fina
 - Conflict = Hutang Cium
 - Harus Bener file dan pull request
